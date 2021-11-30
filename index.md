@@ -1,9 +1,11 @@
 # Avery Richards, MPH
 
 ## Recent Work:
-- Data Management, geospatial analysis with the [Urban Displacement Project](https://evictions.study/)
+###- Data Management, geospatial analysis with the [Urban Displacement Project](https://evictions.study/)
 
-- Substance Use Epidemiology with the San Francisco [Center on Substance Use and Health](https://www.csuhsf.org/)
+###- Substance Use Epidemiology with the [Center on Substance Use and Health](https://www.csuhsf.org/)
+
+###- Consulting and Data Science Education with UC Berkeley's [Dlab](https://dlab.berkeley.edu/)
 
 
 
